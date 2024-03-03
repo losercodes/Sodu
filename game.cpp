@@ -1,6 +1,5 @@
 /*
-Matt Olson
-Alex Izydorczyk
+
 
 File to implement game play
 */
