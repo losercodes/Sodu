@@ -1,6 +1,5 @@
 /*
-Matt Olson
-Alex Izydorczyk
+Aman
 
 Implementation of backtracking algorithm and other game-play mechanics
 */
