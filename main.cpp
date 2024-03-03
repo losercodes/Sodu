@@ -1,7 +1,5 @@
 /*
-Matt Olson
-Alex Izydorczyk
-
+Jai Shree Ram
 Main driver of Sudoku game
 */
 #include <iostream>
