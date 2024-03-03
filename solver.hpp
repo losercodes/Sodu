@@ -1,6 +1,5 @@
 /*
-Matt Olson
-Alex Izydorczyk
+Aman Pandey
 
 Implement Board class to hold state of sudoku game
 */
