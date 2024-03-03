@@ -1,6 +1,5 @@
 /*
-Matt Olson
-Alex Izydorczyk
+
 
 Game-play function declarations
 */
